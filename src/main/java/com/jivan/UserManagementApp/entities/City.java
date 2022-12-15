@@ -17,6 +17,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @Data
 public class City {
+
 	@Id
 	@Column(name = "City_Id")
 	private Integer cityId;

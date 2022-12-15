@@ -1,5 +1,6 @@
 package com.jivan.UserManagementApp.repositories;
 
+
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
